@@ -1,0 +1,5 @@
+package school;
+
+public enum EmployeeType {
+	ACCOUNTENT, CHAIRPERSON, CLERK, DEAN, PROFESSOR, INSTRUCTOR, MAINTENANCE, SECRETARY;
+}
